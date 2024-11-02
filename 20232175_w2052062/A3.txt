@@ -1,0 +1,7 @@
+Row: A
+Seat Number: 3
+Price: 200.0
+Person Information:
+Name: kamal
+Surname: shaa
+Email: kamal@gmail,com

@@ -1,0 +1,7 @@
+Row: D
+Seat Number: 12
+Price: 180.0
+Person Information:
+Name: jehan
+Surname: john
+Email: jehan@gmail.com

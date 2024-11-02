@@ -1,0 +1,7 @@
+Row: A
+Seat Number: 9
+Price: 150.0
+Person Information:
+Name: shan
+Surname: john
+Email: john@gmail.com

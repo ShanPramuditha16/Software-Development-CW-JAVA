@@ -1,0 +1,7 @@
+Row: D
+Seat Number: 9
+Price: 150.0
+Person Information:
+Name: s
+Surname: padme
+Email: padme@gmail.com

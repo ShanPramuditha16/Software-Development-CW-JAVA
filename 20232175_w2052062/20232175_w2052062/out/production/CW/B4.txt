@@ -1,0 +1,7 @@
+Row: B
+Seat Number: 4
+Price: 200.0
+Person Information:
+Name: gyan
+Surname: fernando
+Email: fern@gmail.com

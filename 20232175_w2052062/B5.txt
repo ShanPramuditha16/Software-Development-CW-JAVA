@@ -1,0 +1,7 @@
+Row: B
+Seat Number: 5
+Price: 200.0
+Person Information:
+Name: shan
+Surname: wije
+Email: shan@gmail.com
